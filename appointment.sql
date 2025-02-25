@@ -1,0 +1,1 @@
+SELECT * FROM babysteps_appointments.appointments;
